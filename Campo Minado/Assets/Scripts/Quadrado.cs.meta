@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bc62233602d7c0a428913042484988d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - padrao: {fileID: 21300000, guid: 8c6180c7286a8674b9e0017a7e5ff6db, type: 3}
+  - travado: {fileID: 21300000, guid: d6215c60fbba2b14f9e58adeb3b99100, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
